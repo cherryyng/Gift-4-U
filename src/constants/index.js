@@ -7,15 +7,15 @@ export const navLinks = [
   },
   {
     id: "features",
-    title: "Features",
+    title: "Gift Cards",
   },
   {
     id: "product",
-    title: "Product",
+    title: "About",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "Login",
   },
 ];
 
@@ -23,21 +23,21 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Twitch",
     content:
       "The best credit cards offer some tantalizing combinations of promotions and prizes",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Microsoft",
     content:
       "We take proactive steps make sure your information and transactions are secure.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Starbucks",
     content:
       "A balance transfer credit card can save you a lot of money in interest charges.",
   },
