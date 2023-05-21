@@ -43,6 +43,31 @@ export const features = [
   },
 ];
 
+export const giftCardsAvaliable = [
+  {
+    id: "feature-1",
+    icon: star,
+    title: "Twitch",
+    content:
+      "$50 USDC",
+  },
+  {
+    id: "feature-2",
+    icon: shield,
+    title: "Microsoft",
+    content:
+      "$800 USDC",
+  },
+  {
+    id: "feature-3",
+    icon: send,
+    title: "Starbucks",
+    content:
+      "$20 USDC",
+  },
+];
+
+
 export const feedback = [
   {
     id: "feedback-1",
