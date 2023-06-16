@@ -25,21 +25,21 @@ export const features = [
     icon: star,
     title: "Twitch",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Purchase a gift card today, click to find more details and different pricing options",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "Microsoft",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Purchase a gift card today, click to find more details and different pricing options",
   },
   {
     id: "feature-3",
     icon: send,
     title: "Starbucks",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Purchase a gift card today, click to find more details and different pricing options",
   },
 ];
 

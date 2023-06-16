@@ -25,9 +25,9 @@ const Business = () =>  (
         Gift the special person, <br className="sm:block hidden" /> a special special gift.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-       CHANGE CHANGE CHANGE CHANGE CHANGE can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+        A great secure way to exchange gifts that cannot be easily lost, stolen or damaged.
+        Great fexibility and accessibility puchase now online without needing to visit a real store.
+
       </p>
 
       <Button styles={`mt-10`} />
